@@ -1,0 +1,8 @@
+Pillow==10.3.0
+customtkinter==5.2.2
+mysql-connector-python==9.0.0
+tensorflow==2.13.0
+matplotlib==3.7.5
+tkcalendar==1.6.1
+opencv-python==4.9.0.80
+mediapipe==0.10.11

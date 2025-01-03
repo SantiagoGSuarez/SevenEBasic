@@ -1,0 +1,32 @@
+Instrucciones para la instalación y ejecución de la aplicación
+
+1 Descargar e instalar Microsoft Visual C++ Redistributable para el correcto funcionamiento de la app:
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+2 Descargar e instalar Python 3.8 para el correcto funcionamiento de la app:
+https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe
+IMPORTANTE ¡¡¡¡Marcar el checkbox PATH!!!!
+
+3 Pasos para Iniciar la app:
+
+3.1 Iniciar XAMPP:
+
+Abre el panel de control de XAMPP y asegúrate de iniciar Apache y MySQL.
+
+3.2 Ejecutar la aplicación:
+
+Abre una IDE (se recomienda Visual Studio Code) y accede a la terminal integrada y escribimos python .\app.py para iniciar la aplicacion.
+
+Dato Adicional:
+1 Bibliotecas necesarias para el funcionamiento de la app:
+Estas bibliotecas se descargaran automaticamente cuando se inicie la app.py, las cuales son:
+pip install Pillow==10.3.0
+pip install customtkinter==5.2.2
+pip install mysql-connector-python==9.0.0
+pip install tensorflow==2.13.0
+pip install matplotlib==3.7.5
+pip install tkcalendar==1.6.1
+pip install opencv-python==4.9.0.80
+pip install mediapipe==0.10.11
+
+2 La Base de datos necesaria para la aplicación se creará automáticamente cuando inicies la aplicación por primera vez.
