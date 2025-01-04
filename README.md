@@ -81,6 +81,7 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
 ### Descargar e instalar Python 3.8:
 
 Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala Python 3.8: 
+
 <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 
 **IMPORTANTE:** Asegúrate de marcar el checkbox **"Add Python to PATH"** durante la instalación.
