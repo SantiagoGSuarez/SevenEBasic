@@ -1,5 +1,5 @@
 # SevenEBasic: Detección y análisis de expresiones faciales asociadas a las siete emociones básicas de Paul Ekman <img src="Resources/7 E Basic.png" alt="SevenEBasic" width="120">
-<div style="text-align: center;">
+<div style="text-align: center; margin: 0">
   <img src="Resources/7 E Basic.png" alt="SevenEBasic" width="120">
 </div>
 
