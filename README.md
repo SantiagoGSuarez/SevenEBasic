@@ -6,7 +6,7 @@ SevenEBasic es una aplicación diseñada para detectar y analizar las siete emoc
 
 SevenEBasic utiliza tecnologías avanzadas para el análisis de expresiones faciales en tiempo real, integrando inteligencia artificial y visión por computadora:
 
-### 1. MediaPipe y FaceMesh
+### <a target="_blank" href="https://viz.mediapipe.dev/logo.png" style="display: inline-block;"><img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="28" height="28" /></a> MediaPipe y FaceMesh
 
 MediaPipe es una biblioteca de código abierto desarrollada por Google, especializada en el procesamiento de datos en tiempo real. En SevenEBasic, se utiliza el modelo **FaceMesh**, que permite detectar hasta 468 puntos clave en el rostro humano, proporcionando una representación detallada de las expresiones faciales.
 
