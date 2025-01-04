@@ -15,6 +15,7 @@ FaceMesh destaca por:
 - **Precisión y velocidad:** Procesa datos faciales en tiempo real con alta eficiencia.
 - **Compatibilidad multiplataforma:** Funciona en dispositivos de escritorio y móviles.
 - **Facilidad de integración:** Se combina perfectamente con TensorFlow para tareas de análisis avanzado.
+<div align="center"><img src="Resources/FaceMesh.png" alt="FaceMesh" width="400" style="margin: 0 auto;"></div>
 
 ## Entrenamiento del Modelo IA con TensorFlow
 
