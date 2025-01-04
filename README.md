@@ -23,15 +23,15 @@ Para el análisis de emociones en tiempo real, SevenEBasic utiliza un modelo de 
 
 ### Facial Expressions Training Data
 
-<div align="right"><img src="Resources/dataset1.png" alt="dataset" width="100" style="display: flex;"></div>
-  
-- **Cantidad de imágenes:** 26,061 
-- **Resolución:** 96x96 píxeles
-- **Formato:** PNG
-- **Resultados iniciales:** Una precisión del 54.04% y val_accuracy del 56.41%.
-
-Aunque este dataset permitió construir un modelo funcional, su baja precisión inicial llevó a un reentrenamiento con un segundo conjunto de datos.
-
+<div style="display: flex; align-items: center; justify-content: flex-end;">
+  <img src="Resources/dataset1.png" alt="dataset" width="100" style="margin-right: 10px;">
+  <div>
+    <p><strong>Cantidad de imágenes:</strong> 26,061</p>
+    <p><strong>Resolución:</strong> 96x96 píxeles</p>
+    <p><strong>Formato:</strong> PNG</p>
+    <p><strong>Resultados iniciales:</strong> Una precisión del 54.04% y val_accuracy del 56.41%.</p>
+  </div>
+</div>
 
 
 ### Extended and Augmented Google FER
