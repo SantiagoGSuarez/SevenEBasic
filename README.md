@@ -28,7 +28,7 @@ Para el análisis de emociones en tiempo real, SevenEBasic utiliza un modelo de 
 - **Formato:** PNG
 - **Resultados iniciales:** Una precisión del 54.04% y val_accuracy del 56.41%.
 
-<div align="right"><img src="Resources/dataset1.png" alt="dataset" width="100" style="margin: 0 auto;"></div>
+<div align="center"><img src="Resources/dataset1.png" alt="dataset" width="150" style="margin: 0 auto;"></div>
 
 Aunque este dataset permitió construir un modelo funcional, su baja precisión inicial llevó a un reentrenamiento con un segundo conjunto de datos.
 
@@ -39,7 +39,7 @@ Aunque este dataset permitió construir un modelo funcional, su baja precisión 
 - **Formato:** PNG
 - **Resultados tras el reentrenamiento:** Una precisión mejorada del 76.16% y val_accuracy del 80.30%.
 
-<div align="right"><img src="Resources/dataset2.png" alt="dataset" width="100" style="margin: 0 auto;"></div>
+<div align="center"><img src="Resources/dataset2.png" alt="dataset" width="150" style="margin: 0 auto;"></div>
 
 Este proceso de reentrenamiento ajustó el modelo inicial para mejorar su capacidad de clasificar las emociones básicas: felicidad, tristeza, sorpresa, miedo, ira, disgusto y neutral.
 
