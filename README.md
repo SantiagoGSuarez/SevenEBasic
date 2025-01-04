@@ -23,7 +23,7 @@ Para el análisis de emociones en tiempo real, SevenEBasic utiliza un modelo de 
 
 ### Facial Expressions Training Data
 
-<div align="right"><img src="Resources/dataset1.png" alt="dataset" width="100" style="display: flex; margin: 0 auto;"></div>
+<div align="right"><img src="Resources/dataset1.png" alt="dataset" width="100" style="display: block; margin: 0 auto;"></div>
   
 - **Cantidad de imágenes:** 26,061 
 - **Resolución:** 96x96 píxeles
