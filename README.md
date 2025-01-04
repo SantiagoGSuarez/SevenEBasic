@@ -52,22 +52,22 @@ Es importante destacar que **SevenEBasic utiliza este modelo preentrenado**, el 
 
 Para garantizar un análisis preciso y efectivo de las emociones básicas en tiempo real, es importante tener en cuenta los siguientes factores:
 
-### Resolución de la Cámara
+### 📷 Resolución de la Cámara
 
 - Se recomienda el uso de cámaras con una resolución mínima de **480p**.
 - Cámaras de menor resolución pueden comprometer la detección de puntos faciales clave, afectando la precisión del análisis.
 
-### Iluminación
+### 💡 Iluminación
 
 - Una iluminación adecuada es esencial para capturar detalles faciales de calidad.
 - Se sugiere usar luz natural o artificial que ilumine uniformemente el rostro del usuario, evitando sombras fuertes.
 
-### Posición del Usuario
+### 🧑 Posición del Usuario
 
 - El rostro debe estar bien centrado y orientado hacia la cámara.
 - El usuario debe estar a una distancia adecuada para asegurar que los puntos clave faciales sean detectados correctamente.
 
-### Capacidad de Procesamiento
+### 🖥️ Capacidad de Procesamiento
 
 - La aplicación ha sido probada en equipos con especificaciones mínimas (Intel Celeron N4500, 8 GB RAM) y óptimas (Intel Core i5-8300H, 16 GB RAM).
 - Aunque puede ejecutarse en dispositivos de gama baja, se recomienda usar equipos con mayor capacidad de procesamiento para mejorar la fluidez y minimizar el uso de CPU y RAM.
