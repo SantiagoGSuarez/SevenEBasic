@@ -80,7 +80,7 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
 
 ### Descargar e instalar Python 3.8:
 
-Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala Python 3.8 desde el siguiente enlace: [Python 3.8](https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe).
+Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala Python 3.8 desde el siguiente enlace: <a href="https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 
 **IMPORTANTE:** Asegúrate de marcar el checkbox **"Add Python to PATH"** durante la instalación.
 
@@ -89,7 +89,7 @@ Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala
 #### 2.1 Iniciar XAMPP (opcional):
 
 - Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
-- **Nota:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
+- **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
 
 #### 2.2 Ejecutar la aplicación:
 
