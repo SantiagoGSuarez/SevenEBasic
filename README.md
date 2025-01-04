@@ -86,9 +86,10 @@ Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala
 
 ### Pasos para iniciar la aplicación:
 
-#### 2.1 Iniciar XAMPP:
+#### 2.1 Iniciar XAMPP (opcional):
 
-- Abre el panel de control de XAMPP y asegúrate de iniciar **Apache** y **MySQL**.
+- Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
+- **Nota:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
 
 #### 2.2 Ejecutar la aplicación:
 
