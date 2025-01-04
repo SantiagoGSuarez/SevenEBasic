@@ -4,7 +4,7 @@ SevenEBasic es una aplicación diseñada para detectar y analizar las siete emoc
 
 ## Tecnologías Utilizadas
 
-SevenEBasic utiliza tecnologías avanzadas para el análisis de expresiones faciales en tiempo real, integrando inteligencia artificial y visión por computadora. Además, utiliza ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) como lenguaje principal de desarrollo, aprovechando la poderosa combinación de ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) para entrenar y ejecutar modelos de aprendizaje automático que mejoran la precisión del análisis facial.
+SevenEBasic utiliza tecnologías avanzadas para el análisis de expresiones faciales en tiempo real, integrando inteligencia artificial y visión por computadora. Además, utiliza  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="28" height="28" /></a> <img src="https://img.shields.io/badge/-python-blue?style=for-the-badge&color=3f7cad"> como lenguaje principal de desarrollo, aprovechando la poderosa combinación de ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) para entrenar y ejecutar modelos de aprendizaje automático que mejoran la precisión del análisis facial.
 
 
 ### <a target="_blank" href="https://viz.mediapipe.dev/logo.png" style="display: inline-block;"><img src="https://viz.mediapipe.dev/logo.png" alt="mediapipe" width="28" height="28" /></a> MediaPipe y FaceMesh
