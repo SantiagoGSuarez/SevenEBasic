@@ -22,9 +22,8 @@ FaceMesh destaca por:
 Para el análisis de emociones en tiempo real, SevenEBasic utiliza un modelo de inteligencia artificial previamente entrenado con TensorFlow. Este modelo fue entrenado utilizando dos conjuntos de imágenes específicas, lo que permitió mejorar progresivamente su precisión en la detección de las emociones básicas:
 
 ### Facial Expressions Training Data
-<a href="https://www.kaggle.com/datasets/noamsegal/affectnet-training-data" target="_blank">
-  ![Dataset en Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-</a>
+<a href="https://www.kaggle.com/datasets/noamsegal/affectnet-training-data" target="_blank">![Dataset en Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
+
 - **Cantidad de imágenes:** 26,061 
 - **Resolución:** 96x96 píxeles
 - **Formato:** PNG
