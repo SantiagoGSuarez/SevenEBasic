@@ -22,8 +22,8 @@ FaceMesh destaca por:
 Para el análisis de emociones en tiempo real, SevenEBasic utiliza un modelo de inteligencia artificial previamente entrenado con TensorFlow. Este modelo fue entrenado utilizando dos conjuntos de imágenes específicas, lo que permitió mejorar progresivamente su precisión en la detección de las emociones básicas:
 
 ### Facial Expressions Training Data
-
-- **Cantidad de imágenes:** 26,061 <div align="center"><img src="Resources/dataset1.png" alt="dataset" width="200" style="margin: 0 auto;"></div>
+<div align="right"><img src="Resources/dataset1.png" alt="dataset" width="200" style="margin: 0 auto;"></div>
+- **Cantidad de imágenes:** 26,061 
 - **Resolución:** 96x96 píxeles
 - **Formato:** PNG
 - **Resultados iniciales:** Una precisión del 54.04% y val_accuracy del 56.41%.
@@ -31,8 +31,8 @@ Para el análisis de emociones en tiempo real, SevenEBasic utiliza un modelo de 
 Aunque este dataset permitió construir un modelo funcional, su baja precisión inicial llevó a un reentrenamiento con un segundo conjunto de datos.
 
 ### Extended and Augmented Google FER
-
-- **Cantidad de imágenes:** 35,887 <div align="center"><img src="Resources/dataset2.png" alt="dataset" width="200" style="margin: 0 auto;"></div>
+<div align="right"><img src="Resources/dataset2.png" alt="dataset" width="200" style="margin: 0 auto;"></div>
+- **Cantidad de imágenes:** 35,887 
 - **Resolución:** 48x48 píxeles
 - **Formato:** PNG
 - **Resultados tras el reentrenamiento:** Una precisión mejorada del 76.16% y val_accuracy del 80.30%.
