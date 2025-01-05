@@ -80,7 +80,8 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
 </div>
 
 - Es la entrada principal al sistema. Solicita el nombre de usuario y la contraseña. Si los datos son correctos, el usuario accede a la pantalla principal.
-En caso de no tener una cuenta, se puede registrar haciendo clic en el botón "Registrarse".
+
+  En caso de no tener una cuenta, se puede registrar haciendo clic en el botón "Registrarse".
 
 <div align="center">
   <img src="Resources/2 registrar.PNG" alt="registro" width="500" style="margin: 0 auto;">
@@ -93,16 +94,96 @@ En caso de no tener una cuenta, se puede registrar haciendo clic en el botón "R
   <img src="Resources/3 pantalla principal.PNG" alt="pantalla principal" width="800" style="margin: 0 auto;">
 </div>
 
--  En esta pantalla se visualiza todos los usuarios registrados en forma de lista, con sus datos respectivos y una imagen del usuario. Además, se muestra una sección de filtro, tanto como buscador de usuarios y un filtro visual de forma de 
-grafico de barras, que permite filtrar los análisis de los usuarios según criterios como edad, género y actividad.
-La pantalla principal incluye opciones para:  
-  - Agregar usuarios.  
-  - Agregar actividades.
+-  En esta pantalla se visualiza todos los usuarios registrados en forma de lista, con sus datos respectivos y una imagen del usuario.
   
-### 3. Gestión de Actividad y Usuarios
+   Además, se muestra una sección de filtro, tanto como buscador de usuarios y un filtro visual de forma de grafico de barras, que permite filtrar los análisis de los usuarios según criterios como edad, género y actividad.
 
+   La pantalla principal incluye opciones para:  
+   - Agregar usuario.  
+   - Agregar actividad.
+  
+### 3. Gestión de Actividad
+<div align="center">
+  <img src="Resources/4 actividad.PNG" alt="actividad" width="500" style="margin: 0 auto;">
+</div>
 
+- Permite administrar las actividades asociadas a los usuarios del sistema.
 
+  Las funcionalidades principales son:  
+  - Registrar nuevas actividades introduciendo un nombre único para cada actividad.  
+  - Editar actividades existentes, permitiendo actualizar el nombre según sea necesario.  
+  - Eliminar actividades previamente registradas. Si una actividad está asignada a un usuario, esta se elimina sin afectar al usuario, dejando su lista de actividades vacía. 
+
+### 4. Agregar Usuario
+<div align="center">
+  <img src="Resources/5 registro usuario.PNG" alt="usuario" width="500" style="margin: 0 auto;">
+</div>
+
+- Desde esta pantalla se puede registrar un nuevo usuario proporcionando:  
+  - Nombre.
+  - Apellido.
+  - Fecha de nacimiento.
+  - Correo electrónico.
+  - Actividad.  
+  - Género.
+
+  Además, el administrador podrá:  
+  - **Seleccionar una foto** desde su dispositivo.  
+  - **Tomar una foto** en tiempo real utilizando la cámara.  
+
+  La pantalla muestra inicialmente una **imagen por defecto** para el usuario. Si el administrador selecciona o toma una foto, esta reemplazará la imagen predeterminada.
+
+  Una vez completado el registro, el usuario estará visible en la pantalla principal del sistema.
+
+### 5. Ver Usuario
+<div align="center">
+  <img src="Resources/6 usuario info.PNG" alt="usuario info" width="800" style="margin: 0 auto;">
+</div>
+
+- Al hacer clic en un usuario específico desde la pantalla principal, se muestra una pantalla detallada con:  
+  - **Información completa del usuario**, incluyendo nombre y apellido, edad, género, email y actividad.
+  - **Gráfico de promedios**, que refleja un resumen de las emociones principales obtenidas de todos los análisis realizados por el administrador en ese usuario.
+
+- La pantalla incluye botones para:  
+  - **Editar:** Permite modificar los datos del usuario.  
+  - **Eliminar:** Elimina el usuario.  
+
+- Además, dispone de un botón **"Ver Análisis"** que muestra una lista de todos los análisis realizados por el usuario, con la opción de visualizar y eliminar análisis específicos si se desea.
+
+- Finalmente, hay dos botones para realizar los análisis:  
+  - **Análisis Interno:** Captura expresiones faciales en tiempo real utilizando la cámara.  
+  - **Análisis Externo:** Captura expresiones faciales desde la pantalla del dispositivo.  
+
+### 6. Análisis Interno
+<div align="center">
+  <img src="Resources/7 analisis interno.PNG" alt="interno" width="500" style="margin: 0 auto;">
+</div>
+
+- En el **Análisis Interno**, la captura se realiza utilizando la cámara del dispositivo en tiempo real, mostrando la imagen de la webcam y la emocion detectada en la pantalla. 
+
+  Durante el análisis, el administrador puede iniciar o detener la captura con los botones correspondientes.
+
+  Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario.
+
+### 7. Análisis Externo
+<div align="center">
+  <img src="Resources/8 analisis externo.PNG" alt="externo" width="800" style="margin: 0 auto;">
+</div>
+
+- En el **Análisis Externo**, el administrador selecciona un área específica de la pantalla para realizar la captura de las expresiones faciales del usuario desde el dispositivo.
+
+  Durante el análisis, el administrador puede iniciar o detener la captura utilizando los botones correspondientes. El área seleccionada se resalta en la pantalla, y la captura se realiza solo dentro de esa zona.
+
+  Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario durante la captura.
+
+### 8. Resultados
+<div align="center">
+  <img src="Resources/9 resultados.PNG" alt="resultado" width="500" style="margin: 0 auto;">
+</div>
+
+- Representa los resultados obtenidos en un gráfico de barras, mostrando el porcentaje de cada emoción detectada.
+
+  Además, incluye la opción de **guardar los resultados** del análisis
 
 
 
