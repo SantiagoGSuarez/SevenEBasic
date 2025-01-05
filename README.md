@@ -79,7 +79,8 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
   <img src="Resources/1 login.PNG" alt="login" width="500" style="margin: 0 auto;">
 </div>
 
-- Es la entrada principal al sistema. Solicita el nombre de usuario y la contraseña. Si los datos son correctos, el usuario accede a la pantalla principal. En caso de no tener una cuenta, se puede registrar haciendo clic en el botón "Registrarse".
+- Es la entrada principal al sistema. Solicita el nombre de usuario y la contraseña. Si los datos son correctos, el usuario accede a la pantalla principal.
+En caso de no tener una cuenta, se puede registrar haciendo clic en el botón "Registrarse".
 
 <div align="center">
   <img src="Resources/2 registrar.PNG" alt="registro" width="500" style="margin: 0 auto;">
@@ -92,8 +93,12 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
   <img src="Resources/3 pantalla principal.PNG" alt="pantalla principal" width="800" style="margin: 0 auto;">
 </div>
 
-- 
-
+-  En esta pantalla se visualiza todos los usuarios registrados en forma de lista, con sus datos respectivos y una imagen del usuario. Además, se muestra una sección de filtro, tanto como buscador de usuarios y un filtro visual de forma de 
+grafico de barras, que permite filtrar los análisis de los usuarios según criterios como edad, género y actividad.
+La pantalla principal incluye opciones para:  
+  - Agregar usuarios.  
+  - Agregar actividades.
+  
 ### 3. Gestión de Actividad y Usuarios
 
 
