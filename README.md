@@ -6,7 +6,7 @@
 4. [Factores Clave para el Correcto Funcionamiento](#factores-clave-para-el-correcto-funcionamiento)
 5. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
 6. [Cómo Iniciar la Aplicación](#cómo-iniciar-la-aplicación)
-7. [Versión Ejecutable (.exe)](#versión-ejecutable-(.exe))
+7. [Versión Ejecutable (.exe)](#versión-ejecutable-exe)
 
 # <div align="center"><img src="Resources/7 E Basic.png" alt="SevenEBasic" width="200" style="margin: 0 auto;"></div> SevenEBasic: Detección y análisis de expresiones faciales asociadas a las siete emociones básicas de Paul Ekman
 
