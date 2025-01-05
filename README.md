@@ -264,17 +264,15 @@ La base de datos necesaria para la aplicación se creará automáticamente la pr
    Descarga el archivo comprimido (.zip) desde el siguiente enlace:  
    [Descargar la aplicación](https://drive.google.com/file/d/1qfZ3yPH2prw8Qfy6wbuUy_-5tHLDEu2D/view?usp=sharing)
 
-2. **Extraer los archivos:**  
-   Descomprime el archivo.
+2. **Iniciar XAMPP (opcional):**  
+   Si deseas usar un servidor local, abre el panel de control de XAMPP y asegúrate de iniciar **Apache** y **MySQL**.  
 
-3. **Iniciar XAMPP (opcional):**
-   Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
    **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
 
-4. **Ejecutar la aplicación:**  
-   Una vez extraídos los archivos, localiza el archivo `SevenEBasic.exe` dentro de la carpeta y haz doble clic para ejecutarlo.
+3. **Ejecutar la aplicación:**  
+   Una vez extraído el archivo, localiza el archivo `SevenEBasic.exe` dentro de la carpeta y haz doble clic para ejecutarlo.
 
 #### Notas importantes:  
 
-- Las siguientes bibliotecas se descargarán automáticamente cuando inicies la aplicación
-- La base de datos necesaria para la aplicación se creará automáticamente la primera vez que inicies la aplicación.
+- Las bibliotecas necesarias se descargarán automáticamente al iniciar la aplicación.  
+- La base de datos requerida para la aplicación se creará automáticamente la primera vez que la ejecutes.
