@@ -154,38 +154,45 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
   - **Análisis Interno:** Captura expresiones faciales en tiempo real utilizando la cámara.  
   - **Análisis Externo:** Captura expresiones faciales desde la pantalla del dispositivo.  
 
-#### 5.1 Ver Análisis
-<div align="center">
-  <img src="Resources/10 ver analisis.PNG" alt="ver análisis" width="500" style="margin: 0 auto;">
-</div>
-
-- Se muestra una lista de todos los análisis previos realizados para ese usuario, con los porcentajes de las emociones detectadas.
-
-  Además, hay botones para visualizar ese análisis o eliminarlo.
+  #### 5.1 Ver Análisis
+  <div align="center">
+    <img src="Resources/10 ver analisis.PNG" alt="ver analisis" width="500" style="margin: 0 auto;">
+  </div>
   
+  - Se muestra una lista de todos los análisis previos realizados para ese usuario, con los porcentajes de las emociones detectadas.
+  
+    En esta lista, cada análisis tiene dos opciones:
+    - **Ver Resultado:** Muestra los detalles del análisis específico seleccionado, con la información completa de las emociones detectadas y sus porcentajes.
+    - **Eliminar:** Permite eliminar el análisis seleccionado.
+    
+    ##### 5.1.1 Ver Resultado
+    <div align="center">
+      <img src="Resources/11 ver resultado analisis.PNG" alt="ver resultado analisis" width="500" style="margin: 0 auto;">
+    </div>
 
+    - Se visualizan la fecha y hora en que comenzó el análisis, además de la duración y un gráfico con los resultados, mostrando el porcentaje de cada emoción detectada.
 
-#### 5.2 Análisis Interno
-<div align="center">
-  <img src="Resources/7 analisis interno.PNG" alt="interno" width="500" style="margin: 0 auto;">
-</div>
-
-- En el **Análisis Interno**, la captura se realiza utilizando la cámara del dispositivo en tiempo real, mostrando la imagen de la webcam y la emocion detectada en la pantalla. 
-
-  Durante el análisis, el administrador puede iniciar o detener la captura con los botones correspondientes.
-
-  Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario.
-
-#### 5.3 Análisis Externo
-<div align="center">
-  <img src="Resources/8 analisis externo.PNG" alt="externo" width="800" style="margin: 0 auto;">
-</div>
-
-- En el **Análisis Externo**, el administrador selecciona un área específica de la pantalla para realizar la captura de las expresiones faciales del usuario desde el dispositivo.
-
-  Durante el análisis, el administrador puede iniciar o detener la captura utilizando los botones correspondientes. El área seleccionada se resalta en la pantalla, y la captura se realiza solo dentro de esa zona.
-
-  Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario durante la captura.
+  #### 5.2 Análisis Interno
+  <div align="center">
+    <img src="Resources/7 analisis interno.PNG" alt="interno" width="500" style="margin: 0 auto;">
+  </div>
+  
+  - En el **Análisis Interno**, la captura se realiza utilizando la cámara del dispositivo en tiempo real, mostrando la imagen de la webcam y la emocion detectada en la pantalla. 
+  
+    Durante el análisis, el administrador puede iniciar o detener la captura con los botones correspondientes.
+  
+    Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario.
+  
+  #### 5.3 Análisis Externo
+  <div align="center">
+    <img src="Resources/8 analisis externo.PNG" alt="externo" width="800" style="margin: 0 auto;">
+  </div>
+  
+  - En el **Análisis Externo**, el administrador selecciona un área específica de la pantalla para realizar la captura de las expresiones faciales del usuario desde el dispositivo.
+  
+    Durante el análisis, el administrador puede iniciar o detener la captura utilizando los botones correspondientes. El área seleccionada se resalta en la pantalla, y la captura se realiza solo dentro de esa zona.
+  
+    Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario durante la captura.
 
 ### 6. Resultados
 <div align="center">
