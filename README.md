@@ -270,7 +270,7 @@ La base de datos necesaria para la aplicación se creará automáticamente la pr
 
 1. **Descargar el archivo:**  
    Descarga el archivo comprimido (.zip) desde el siguiente enlace:  
-   [Descargar la aplicación](https://drive.google.com/file/d/1qfZ3yPH2prw8Qfy6wbuUy_-5tHLDEu2D/view?usp=sharing)
+   <a href="https://drive.google.com/file/d/1qfZ3yPH2prw8Qfy6wbuUy_-5tHLDEu2D/view?usp=sharing">![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)</a>
 
 2. **Iniciar XAMPP (opcional):**  
    Si deseas usar un servidor local, abre el panel de control de XAMPP y asegúrate de iniciar **Apache** y **MySQL**.  
