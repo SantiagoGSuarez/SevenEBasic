@@ -2,9 +2,10 @@
 
 1. [SevenEBasic: Detección y análisis de expresiones faciales](#sevenebasic-detección-y-análisis-de-expresiones-faciales)
 2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-3. [Factores Clave para el Correcto Funcionamiento](#factores-clave-para-el-correcto-funcionamiento)
-4. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
-5. [Cómo Iniciar la Aplicación](#cómo-iniciar-la-aplicación)
+3. [Entrenamiento del Modelo IA con TensorFlow](#entrenamiento-del-modelo-ia-con-tensorflow)
+4. [Factores Clave para el Correcto Funcionamiento](#factores-clave-para-el-correcto-funcionamiento)
+5. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
+6. [Cómo Iniciar la Aplicación](#cómo-iniciar-la-aplicación)
 
 # <div align="center"><img src="Resources/7 E Basic.png" alt="SevenEBasic" width="200" style="margin: 0 auto;"></div> SevenEBasic: Detección y análisis de expresiones faciales asociadas a las siete emociones básicas de Paul Ekman
 
