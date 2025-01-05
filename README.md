@@ -233,7 +233,7 @@ Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala
    ```bash
    git clone https://github.com/SantiagoGSuarez/SevenEBasic.git
 
-<img src="Resources/xampp.ico" alt="ver analisis" width="28" style="margin: 0 auto;"> <img src="https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&color=fb7a24"> #### 2 Iniciar XAMPP (opcional):
+#### 2 Iniciar <img src="Resources/xampp.ico" alt="ver analisis" width="28" style="margin: 0 auto;"> <img src="https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&color=fb7a24"> (opcional):
 
 - Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
 - **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
@@ -272,7 +272,7 @@ La base de datos necesaria para la aplicación se creará automáticamente la pr
    Descarga el archivo comprimido (.zip) desde el siguiente enlace:  
    <a href="https://drive.google.com/file/d/1qfZ3yPH2prw8Qfy6wbuUy_-5tHLDEu2D/view?usp=sharing">![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)</a>
 
-2. **Iniciar XAMPP (opcional):**  
+2. **Iniciar <img src="Resources/xampp.ico" alt="ver analisis" width="28" style="margin: 0 auto;"> <img src="https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&color=fb7a24"> (opcional):**  
    Si deseas usar un servidor local, abre el panel de control de XAMPP y asegúrate de iniciar **Apache** y **MySQL**.  
 
    **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
