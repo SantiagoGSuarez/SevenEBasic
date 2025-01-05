@@ -165,7 +165,7 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
     - **Ver Resultado:** Muestra los detalles del análisis específico seleccionado, con la información completa de las emociones detectadas y sus porcentajes.
     - **Eliminar:** Permite eliminar el análisis seleccionado.
     
-    ##### 5.1.1 Ver Resultado
+    #### 5.1.1 Ver Resultado
     <div align="center">
       <img src="Resources/11 ver resultado analisis.PNG" alt="ver resultado analisis" width="500" style="margin: 0 auto;">
     </div>
@@ -201,10 +201,7 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
 
 - Representa los resultados obtenidos en un gráfico de barras, mostrando el porcentaje de cada emoción detectada.
 
-  Además, incluye la opción de **guardar los resultados** del análisis
-
-
-
+  Además, incluye la opción de **guardar los resultados** del análisis.
 
 ## Cómo Iniciar la Aplicación
 
