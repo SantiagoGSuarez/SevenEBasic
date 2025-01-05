@@ -225,21 +225,29 @@ Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala
 
 ### Pasos para iniciar la aplicación:
 
-#### 2.1 Iniciar XAMPP (opcional):
+#### 1. Descargar el repositorio:
+
+1. **Descargar el repositorio:**  
+   Descarga este repositorio haciendo clic en el botón **"Code"** y seleccionando **"Download ZIP"**, o clona el repositorio con el siguiente comando:  
+
+   ```bash
+   git clone https://github.com/SantiagoGSuarez/SevenEBasic.git
+
+#### 2 Iniciar XAMPP (opcional):
 
 - Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
 - **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
 
-#### 2.2 Ejecutar la aplicación:
-
-- Abre una IDE (se recomienda Visual Studio Code) y accede a la terminal integrada.
+#### 3 Ejecutar la aplicación:
+- Extrae el repositorio descargado y abre la carpeta en una IDE (se recomienda Visual Studio Code) para acceder a los archivos.
+- Accede a la terminal integrada de la IDE.
 - Escribe el siguiente comando para iniciar la aplicación:
 
 ```bash
 python .\app.py
 ```
 
-## Bibliotecas necesarias
+### Bibliotecas necesarias
 
 Las siguientes bibliotecas se descargarán automáticamente cuando inicies la aplicación:
 
@@ -252,7 +260,7 @@ Las siguientes bibliotecas se descargarán automáticamente cuando inicies la ap
 - `opencv-python==4.9.0.80`
 - `mediapipe==0.10.11`
 
-## Base de Datos
+### Base de Datos
 
 La base de datos necesaria para la aplicación se creará automáticamente la primera vez que inicies la aplicación.
 
