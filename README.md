@@ -1,3 +1,22 @@
+# Índice
+
+1. [SevenEBasic: Detección y análisis de expresiones faciales](#sevenebasic-detección-y-análisis-de-expresiones-faciales)
+2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+   - [MediaPipe y FaceMesh](#mediapipe-y-facemesh)
+   - [Entrenamiento del Modelo IA con TensorFlow](#entrenamiento-del-modelo-ia-con-tensorflow)
+3. [Factores Clave para el Correcto Funcionamiento](#factores-clave-para-el-correcto-funcionamiento)
+4. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
+   - [Pantallas de Login y Registro](#pantallas-de-login-y-registro)
+   - [Pantalla Principal](#pantalla-principal)
+   - [Gestión de Actividad](#gestión-de-actividad)
+   - [Agregar Usuario](#agregar-usuario)
+   - [Ver Usuario](#ver-usuario)
+   - [Ver Análisis](#ver-análisis)
+   - [Análisis Interno](#análisis-interno)
+   - [Análisis Externo](#análisis-externo)
+5. [Resultados](#resultados)
+6. [Cómo Iniciar la Aplicación](#cómo-iniciar-la-aplicación)
+
 # <div align="center"><img src="Resources/7 E Basic.png" alt="SevenEBasic" width="200" style="margin: 0 auto;"></div> SevenEBasic: Detección y análisis de expresiones faciales asociadas a las siete emociones básicas de Paul Ekman
 
 SevenEBasic es una aplicación diseñada para detectar y analizar las siete emociones básicas según Paul Ekman en tiempo real, ayudando a los empresarios a monitorear el bienestar emocional de sus empleados. Utilizando inteligencia artificial y tecnologías de visión por computadora como MediaPipe, la aplicación permite analizar las expresiones faciales de los empleados durante reuniones o entrevistas, proporcionando información valiosa sobre su estado emocional.
