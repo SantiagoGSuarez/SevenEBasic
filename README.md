@@ -148,13 +148,24 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
   - **Editar:** Permite modificar los datos del usuario.  
   - **Eliminar:** Elimina el usuario.  
 
-- Además, dispone de un botón **"Ver Análisis"** que muestra una lista de todos los análisis realizados por el usuario, con la opción de visualizar y eliminar análisis específicos si se desea.
+- Además, dispone de un botón **"Ver Análisis"** que muestra una lista de todos los análisis realizados, con la opción de visualizar y eliminar análisis específicos si se desea.
 
 - Finalmente, hay dos botones para realizar los análisis:  
   - **Análisis Interno:** Captura expresiones faciales en tiempo real utilizando la cámara.  
   - **Análisis Externo:** Captura expresiones faciales desde la pantalla del dispositivo.  
 
-### 6. Análisis Interno
+#### 5.1 Ver Análisis
+<div align="center">
+  <img src="Resources/10 ver analisis.PNG" alt="ver análisis" width="500" style="margin: 0 auto;">
+</div>
+
+- Se muestra una lista de todos los análisis previos realizados para ese usuario, con los porcentajes de las emociones detectadas.
+
+  Además, hay botones para visualizar ese análisis o eliminarlo.
+  
+
+
+#### 5.2 Análisis Interno
 <div align="center">
   <img src="Resources/7 analisis interno.PNG" alt="interno" width="500" style="margin: 0 auto;">
 </div>
@@ -165,7 +176,7 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
 
   Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario.
 
-### 7. Análisis Externo
+#### 5.3 Análisis Externo
 <div align="center">
   <img src="Resources/8 analisis externo.PNG" alt="externo" width="800" style="margin: 0 auto;">
 </div>
@@ -176,7 +187,7 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
 
   Una vez detenido el análisis, los resultados se visualizan en un gráfico de barras, mostrando el porcentaje de las emociones detectadas en la expresión facial del usuario durante la captura.
 
-### 8. Resultados
+### 6. Resultados
 <div align="center">
   <img src="Resources/9 resultados.PNG" alt="resultado" width="500" style="margin: 0 auto;">
 </div>
