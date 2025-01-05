@@ -75,17 +75,26 @@ Para garantizar un análisis preciso y efectivo de las emociones básicas en tie
 ## Pantallas de la Aplicación
 
 ### 1. Pantallas de Login y Registro
-<div align="center" style="padding: 50px;">
-  <img src="Resources/1 login.PNG" alt="login" width="400" style="margin: 0 auto;">
-  <img src="Resources/2 registrar.PNG" alt="registro" width="400" style="margin: 0 auto;">
+<div align="center">
+  <img src="Resources/1 login.PNG" alt="login" width="300" style="margin: 0 auto;">
 </div>
 
 - Es la entrada principal al sistema. Solicita el nombre de usuario y la contraseña. Si los datos son correctos, el usuario accede a la pantalla principal. En caso de no tener una cuenta, se puede registrar haciendo clic en el botón "Registrarse".
 
+<div align="center">
+  <img src="Resources/2 registrar.PNG" alt="registro" width="300" style="margin: 0 auto;">
+</div>
 
+- Permite crear una nueva cuenta ingresando un nombre de usuario, email y contraseña. Una vez completado el formulario, el usuario es redirigido al login.
 
+### 2. Pantalla Principal
+<div align="center">
+  <img src="Resources/3 pantalla principal.PNG" alt="pantalla principal" width="600" style="margin: 0 auto;">
+</div>
 
+- 
 
+### 3. Gestión de Actividad y Usuarios
 
 
 
