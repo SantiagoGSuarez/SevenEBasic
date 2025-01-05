@@ -233,7 +233,7 @@ Para garantizar el funcionamiento adecuado de la aplicación, descarga e instala
    ```bash
    git clone https://github.com/SantiagoGSuarez/SevenEBasic.git
 
-#### 2 Iniciar XAMPP (opcional):
+<img src="Resources/xampp.ico" alt="ver analisis" width="28" style="margin: 0 auto;"> <img src="https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&color=fb7a24"> #### 2 Iniciar XAMPP (opcional):
 
 - Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
 - **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
