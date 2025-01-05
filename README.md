@@ -6,6 +6,7 @@
 4. [Factores Clave para el Correcto Funcionamiento](#factores-clave-para-el-correcto-funcionamiento)
 5. [Pantallas de la Aplicación](#pantallas-de-la-aplicación)
 6. [Cómo Iniciar la Aplicación](#cómo-iniciar-la-aplicación)
+7. [Pasos para usar la versión .exe](#pasos-para-usar-la-versión-.exe)
 
 # <div align="center"><img src="Resources/7 E Basic.png" alt="SevenEBasic" width="200" style="margin: 0 auto;"></div> SevenEBasic: Detección y análisis de expresiones faciales asociadas a las siete emociones básicas de Paul Ekman
 
@@ -254,3 +255,26 @@ Las siguientes bibliotecas se descargarán automáticamente cuando inicies la ap
 ## Base de Datos
 
 La base de datos necesaria para la aplicación se creará automáticamente la primera vez que inicies la aplicación.
+
+### Versión Ejecutable (.exe)
+
+Para mayor comodidad, también contamos con una versión ejecutable de la aplicación, que no requiere configuraciones previas ni la instalación de bibliotecas adicionales.
+
+#### Pasos para usar la versión .exe:
+
+1. **Descargar el archivo:**  
+   Descarga el archivo comprimido (.zip) desde el siguiente enlace:  
+   [Descargar la aplicación](ENLACE_DE_GOOGLE_DRIVE)
+
+2. **Extraer los archivos:**  
+   Descomprime el archivo en una carpeta de tu preferencia.
+
+3. **Verificar la puerta 3306:**  
+   Asegúrate de que la puerta **3306** de MySQL esté disponible y abierta, ya que es necesaria para que la aplicación se conecte correctamente a la base de datos.
+
+4. **Ejecutar la aplicación:**  
+   Una vez extraídos los archivos, localiza el archivo `app.exe` dentro de la carpeta y haz doble clic para ejecutarlo.
+
+#### Notas importantes:  
+
+- **Servidor local:** Si estás utilizando un servidor local (como XAMPP), asegúrate de que **MySQL** esté iniciado.
