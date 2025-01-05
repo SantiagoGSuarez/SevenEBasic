@@ -256,25 +256,25 @@ Las siguientes bibliotecas se descargarán automáticamente cuando inicies la ap
 
 La base de datos necesaria para la aplicación se creará automáticamente la primera vez que inicies la aplicación.
 
-### Versión Ejecutable (.exe)
-
-Para mayor comodidad, también contamos con una versión ejecutable de la aplicación, que no requiere configuraciones previas ni la instalación de bibliotecas adicionales.
+## Versión Ejecutable (.exe)
 
 #### Pasos para usar la versión .exe:
 
 1. **Descargar el archivo:**  
    Descarga el archivo comprimido (.zip) desde el siguiente enlace:  
-   [Descargar la aplicación](ENLACE_DE_GOOGLE_DRIVE)
+   [Descargar la aplicación](https://drive.google.com/file/d/1qfZ3yPH2prw8Qfy6wbuUy_-5tHLDEu2D/view?usp=sharing)
 
 2. **Extraer los archivos:**  
-   Descomprime el archivo en una carpeta de tu preferencia.
+   Descomprime el archivo.
 
-3. **Verificar la puerta 3306:**  
-   Asegúrate de que la puerta **3306** de MySQL esté disponible y abierta, ya que es necesaria para que la aplicación se conecte correctamente a la base de datos.
+3. **Iniciar XAMPP (opcional):**
+   Si deseas usar un servidor local, puedes abrir el panel de control de XAMPP y asegurarte de iniciar **Apache** y **MySQL**. 
+   **IMPORTANTE:** Aunque XAMPP es opcional, es necesario que la puerta **3306** de MySQL esté disponible para que la aplicación funcione correctamente.
 
 4. **Ejecutar la aplicación:**  
-   Una vez extraídos los archivos, localiza el archivo `app.exe` dentro de la carpeta y haz doble clic para ejecutarlo.
+   Una vez extraídos los archivos, localiza el archivo `SevenEBasic.exe` dentro de la carpeta y haz doble clic para ejecutarlo.
 
 #### Notas importantes:  
 
-- **Servidor local:** Si estás utilizando un servidor local (como XAMPP), asegúrate de que **MySQL** esté iniciado.
+- Las siguientes bibliotecas se descargarán automáticamente cuando inicies la aplicación
+- La base de datos necesaria para la aplicación se creará automáticamente la primera vez que inicies la aplicación.
