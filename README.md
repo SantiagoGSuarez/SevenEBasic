@@ -10,7 +10,7 @@
 
 # <div align="center"><img src="Resources/7 E Basic.png" alt="SevenEBasic" width="200" style="margin: 0 auto;"></div> SevenEBasic: Detección y análisis de expresiones faciales asociadas a las siete emociones básicas de Paul Ekman
 
-SevenEBasic es una aplicación diseñada para detectar y analizar las siete emociones básicas según Paul Ekman en tiempo real, ayudando a los empresarios a monitorear el bienestar emocional de sus empleados. Utilizando inteligencia artificial y tecnologías de visión por computadora como MediaPipe, la aplicación permite analizar las expresiones faciales de los empleados durante reuniones o entrevistas, proporcionando información valiosa sobre su estado emocional.
+SevenEBasic es una aplicación diseñada para detectar y analizar las siete emociones básicas definidas por Paul Ekman: felicidad, tristeza, sorpresa, miedo, ira, disgusto y neutral. Estas emociones se identifican en tiempo real, ayudando a los empresarios a monitorear el bienestar emocional de sus empleados. Utilizando inteligencia artificial y tecnologías de visión por computadora como MediaPipe, la aplicación permite analizar las expresiones faciales de los empleados durante reuniones o entrevistas, proporcionando información valiosa sobre su estado emocional.
 
 ## Tecnologías Utilizadas
 
